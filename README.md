@@ -1,2 +1,2 @@
-# planet-bot-support
-Planet-botのサポ鯖用プログラムです
+# HoshimiTech-support
+HoshimiTechのサポ鯖用プログラムです
